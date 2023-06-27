@@ -25,6 +25,7 @@ For the app development, following technologies were used:
     qt5-applications   5.15.2.2.3
     qt5-tools          5.15.2.1.3
     requests           2.28.2
+    soupsieve          2.3.2.post1
     SQLAlchemy         2.0.0
 
 ## Installation
