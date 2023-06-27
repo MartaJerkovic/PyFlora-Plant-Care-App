@@ -4,10 +4,11 @@
 As part of my final thesis for a Python Developer education course, I have developed PyFlora, an app dedicated to plant care.  
 
 ## App Overview
-PyFlora's primary objective is to effectively manage plant health through the monitoring of essential parameters such as light exposure, soil moisture, soil pH, and current temperature. The app comes with a built-in collection of 10 plants. Similar to real-life scenarios, users are advised to place their chosen plant in a pot. Once the plant is in the pot, users can access sensor readings specific to the plant and perform watering as necessary.
+PyFlora's primary objective is to effectively manage plant health through the monitoring of essential parameters such as light exposure, soil moisture, soil pH, and current temperature. The app comes with a built-in collection of 10 plants. Similar to real-life scenarios, users are advised to place their chosen plant in a pot. Once the plant is in the pot, users can access sensor readings specific to the plant and perform watering as necessary. Each monitored parameter is supported by an associated script that effectively emulates its behavior, enhancing the overall realism of the user experience.
 
 ## App Video Preview
-Watch a brief visual demonstration of PyFlora's key features and functionality.
+Watch a brief visual demonstration of PyFlora's key features and functionality:
+https://drive.google.com/file/d/1tXN5rbwL8N9swd5Am1zC1FYZoj5WSN1T/view?usp=sharing
 
 ## Technologies 
 For the app development, following technologies were used:
@@ -29,7 +30,7 @@ For the app development, following technologies were used:
 ## Installation
 Download PyFlora folder and open it using your preferred IDE.  
 Open _**1_pyflora_main.py**_ file and run it.  
-**for sensor readings to work open _**openweather_temp.py**_ file and replace **"YOUR_API_KEY"** with your OpenWeather API key and **"YOUR_CITY"** with the city for which you want to retrieve weather data.
+** for sensor readings to work open _**openweather_temp.py**_ file and replace **"YOUR_API_KEY"** with your OpenWeather API key and **"YOUR_CITY"** with the city for which you want to retrieve weather data.
 
 ## Features 
 * Profile management (edit name, username and password)
