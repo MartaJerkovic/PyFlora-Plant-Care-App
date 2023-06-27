@@ -1,0 +1,11 @@
+User_ID,Plant_name,Plant_botanical_name,Plant_image_loc,Plant_location,Watering,Sun_exposure,Substrate,Soil_pH
+1,Eucalyptus,Eucalyptus Gunnii,./eucalyptus.jpg,garden,weekly,full sun to part shade,coco coir or peat moss,5.5 - 6.4
+1,Calathea White Fusion,Calathea Lietzei,./calathea.jpg,bathroom,weekly,bright indirect sunlight,perlite or sand,6.5 - 7.5
+1,Peppermint,Mentha Piperita,./peppermint.jpg,kitchen,every 3-4 days,full sun,peat moss organic mix,6.0 - 7.5
+1,Basil,Ocimum Basilicum ,./basil.jpg,kitchen,weekly,full sun to part shade,compost-based,6.0 - 7.5
+1,Aloe Vera,Aloe Barbadensis Miller ,./aloe_vera.jpg,balcony,every 3 weeks,full sun,"sand, perlite, pumice and pine bark",7.0 - 8.5
+1,Rubber Plant,Ficus Elastica,./ficus.jpg,living room,weekly,bright indirect sunlight,"peat, pine bark and perlite",5.5 - 7.0
+1,Swiss Cheese Plant,Monstera Deliciosa,./monstera.jpg,living room,weekly,bright indirect sunlight,peat moss,5.5 - 7.0
+1,Lucky Bamboo,Dracaena Sanderiana ,./lucky_bamboo.jpg,home office,every 7-10 days,bright indirect sunlight,coarse gravel or loose pebbles,6.0 - 6.5
+1,ZZ Plant,Zamioculcas Zamiifolia,./zz_plant.jpg,living room,every 2-3 weeks,bright indirect sunlight,"pumice, perlite or wood chips",6.0 - 7.0
+1,Common Houseleek,Sempervivum Tectorum ,./houseleek.jpg,garden,when dry,full sun,none,6.6 - 7.5

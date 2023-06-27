@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>eucalyptus.jpg</file>
+    <file>leaves.png</file>
+    <file>water-drop.png</file>
+    <file>sun.png</file>
+    <file>down.png</file>
+    <file>fertilizer.png</file>
+    <file>plant-trees.png</file>
+  </qresource>
+</RCC>
